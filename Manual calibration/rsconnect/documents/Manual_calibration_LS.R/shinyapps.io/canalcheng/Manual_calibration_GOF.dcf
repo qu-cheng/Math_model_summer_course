@@ -1,0 +1,14 @@
+name: Manual_calibration_GOF
+title: Manual_calibration_GOF
+username:
+account: canalcheng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9572483
+bundleId: 7547030
+url: https://canalcheng.shinyapps.io/Manual_calibration_GOF/
+when: 1691563870.99166
+lastSyncTime: 1691563870.99167
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Manual_calibration.R

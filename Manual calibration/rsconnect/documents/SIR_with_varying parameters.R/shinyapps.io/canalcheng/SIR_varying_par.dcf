@@ -1,0 +1,14 @@
+name: SIR_varying_par
+title: SIR_varying_par
+username:
+account: canalcheng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9576801
+bundleId: 7547182
+url: https://canalcheng.shinyapps.io/SIR_varying_par/
+when: 1691567747.96037
+lastSyncTime: 1691567747.96039
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Manual_calibration_LS.R|Manual_calibration.R
