@@ -1,13 +1,3 @@
----
-title: "Labs"
-author: "Qu Cheng"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    df_print: paged
----
-
-
 
 *Adapted from [Infectious Disease Modelling Specialization on Coursera](https://www.coursera.org/specializations/infectious-disease-modelling)*
 
